@@ -5,7 +5,7 @@
 
 <div id="cv" align="center">
 	<a href="https://ilya703.github.io/CV/CV.pdf" target="_blank">
-		<img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=protocols.io&logoColor=white" alt="CV" style="width:120px; margin-bottom:100px"/>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/buttonCV.png" alt="CV" style="width:220px; margin-bottom:100px"/>
 	</a>
 </div>
 <br>
