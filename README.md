@@ -41,12 +41,12 @@
 <br>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/ilya-skobelev-b81432261/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/linkedinImg.svg" style="color:#0A66C2" title="node" alt="LinkedIn" width="40" height="40"/>
+	</a>&nbsp&nbsp&nbsp
 	<a href="https://github.com/Ilya703" target="_blank">
-		<img src=https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="Github"/>
-	</a>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/telegramImg.svg" title="node" alt="Github" width="40" height="40"/>
+	</a>&nbsp&nbsp&nbsp
 	<a href="https://t.me/enotzef" target="_blank">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/githubImg.svg" title="node" alt="Telegram" width="40" height="40"/>
 	</a>
 </div>
