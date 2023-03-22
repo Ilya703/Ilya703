@@ -44,7 +44,7 @@
 		<img src="https://github.com/Ilya703/Ilya703/blob/main/linkedinIcon.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 	</a>&nbsp&nbsp&nbsp
 	<a href="https://github.com/Ilya703" target="_blank">
-		<img src="https://github.com/Ilya703/Ilya703/blob/main/githubIcon.svg" title="GitHib" alt="Github" width="40" height="40"/>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/githubIcon.svg" title="GitHub" alt="Github" width="40" height="40"/>
 	</a>&nbsp&nbsp&nbsp
 	<a href="https://t.me/enotzef" target="_blank">
 		<img src="https://github.com/Ilya703/Ilya703/blob/main/telegramIcon.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
