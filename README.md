@@ -41,7 +41,7 @@
 <br>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/ilya-skobelev-b81432261/" target="_blank">
-		<img src="https://github.com/Ilya703/Ilya703/blob/main/linkedinImg.svg" style="color:#0A66C2" title="node" alt="LinkedIn" width="40" height="40"/>
+		<img src="https://github.com/Ilya703/Ilya703/blob/main/linkedinImg.svg" title="node" alt="LinkedIn" width="40" height="40"/>
 	</a>&nbsp&nbsp&nbsp
 	<a href="https://github.com/Ilya703" target="_blank">
 		<img src="https://github.com/Ilya703/Ilya703/blob/main/telegramImg.svg" title="node" alt="Github" width="40" height="40"/>
