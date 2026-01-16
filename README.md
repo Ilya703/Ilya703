@@ -10,10 +10,15 @@
 </div>
 <br>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">About me</h2>
 <br>
 <div id="tools" align="center">
-	<h3>LinkedIn</h3>&nbsp;
+	<h3>I'm a Software Engineer at Yandex with 5+ years of experience in Software Development&nbsp;
+	I specialize in systems design, high-load backend development, and solving complex engineering problems. My recent work at Yandex focuses on B2B browser solutions, architecture of distributed systems and API design&nbsp;
+	Some facts about me:&nbsp;
+	- Winner and prize-winner in RuCode algorithmic contests&nbsp;
+	- Passionate about traveling, exploring new counties and cultures&nbsp;
+	Always open to new challenges and technical discussions. Let’s connect!</h3>&nbsp;
 	<h3>LinkedIn</h3>&nbsp;
 </div>
 <br>
