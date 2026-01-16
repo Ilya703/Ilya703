@@ -18,7 +18,7 @@
 	Some facts about me:<br>
 	- Winner and prize-winner in RuCode algorithmic contests<br>
 	- Passionate about traveling, exploring new counties and cultures<br><br>
-	Always open to new challenges and technical discussions. Let’s connect!</h4><br><br>
+	Always open to new challenges and technical discussions. Let’s connect!</h4><br>
 	<h4>Stack: JavaScript, Node.js, PostgreSQL, Redis, SQL, React, Svelte, Go, Docker</h4>
 </div>
 <br>
