@@ -13,13 +13,13 @@
 <h2 align="center">About me</h2>
 <br>
 <div id="tools" align="left">
-	<h4>I'm a Software Engineer at Yandex with 5+ years of experience in Software Development<br>
-	I specialize in systems design, high-load backend development, and solving complex engineering problems. My recent work at Yandex focuses on B2B browser solutions, architecture of distributed systems and API design<br>
+	<h4>I'm a Software Engineer at Yandex with 5+ years of experience in Software Development<br><br>
+	I specialize in systems design, high-load backend development, and solving complex engineering problems. My recent work at Yandex focuses on B2B browser solutions, architecture of distributed systems and API design<br><br>
 	Some facts about me:<br>
 	- Winner and prize-winner in RuCode algorithmic contests<br>
-	- Passionate about traveling, exploring new counties and cultures<br>
-	Always open to new challenges and technical discussions. Let’s connect!</h4>&nbsp;
-	<h3>LinkedIn</h3>&nbsp;
+	- Passionate about traveling, exploring new counties and cultures<br><br>
+	Always open to new challenges and technical discussions. Let’s connect!</h4><br><br>
+	<h4>Stack: JavaScript, Node.js, PostgreSQL, Redis, SQL, React, Svelte, Go, Docker</h4>
 </div>
 <br>
 
